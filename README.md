@@ -2,7 +2,10 @@ Data Analysis in Excel
 
 This repository contains my solved exercises and practice work in Microsoft Excel for building a strong foundation in data analysis. It covers essential Excel skills ranging from basic operators to advanced functions and data visualization techniques.
 
+
  Contents
+
+ 
 
 Arithmetic Operators & Functions
 
@@ -40,7 +43,9 @@ Functions like AVERAGE, MEDIAN, MODE, STDEV, etc.
 
 Logical functions (IF, AND, OR, NOT) for decision-making in datasets.
 
+
  Purpose
+ 
 
 This project demonstrates how Excel can be used as a powerful tool for data analysis without coding. It is useful for:
 
